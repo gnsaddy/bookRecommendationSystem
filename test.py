@@ -4,7 +4,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-
 # datasets books,student,rating
 books = pd.read_csv('books.csv', error_bad_lines=False, encoding="latin-1")
 # columns of books dataset
