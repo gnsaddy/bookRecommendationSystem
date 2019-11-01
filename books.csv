@@ -61,8 +61,8 @@ ISBN,title,author,yop,publisher
 978-0074624128,design of steel structures,SUBRAMANIAN,2017,OXFORD
 978-9381141359,Handbook of reinforced concrete design,SINHA,2017,MGH
 978-9381141359,matrix method of structural analysis,BHAVIKATTI,2017,I K INTERNATIONAL
-9.78938E+12,matrix method of structural analysis,BHAVIKATTI,2017,I K INTERNATIONAL
-9.78938E+12,Strenghth of,"""S.RAMAMRUTHAM, R NARAYANAN""",2017,DHANAPATH RAI PUBLISHING CO.
+9.79E+12,matrix method of structural analysis,BHAVIKATTI,2017,I K INTERNATIONAL
+9.79E+12,Strenghth of,"""S.RAMAMRUTHAM, R NARAYANAN""",2017,DHANAPATH RAI PUBLISHING CO.
 978-8123910772,Strenghth of,"""S.RAMAMRUTHAM, R NARAYANAN""",2017,DHANAPATH RAI PUBLISHING CO.
 978-8123910772,strength of materials part 2,TIMOSHENKO,2017,CBS
 978-8123909783,strength of materials part 2,TIMOSHENKO,2017,CBS
@@ -114,7 +114,7 @@ ISBN,title,author,yop,publisher
 978-8131713297,dynamics of structures theory and,CHOPRA,2017,PEAROSN
 978-0198083528,dynamics of structures theory and,CHOPRA,2017,PEAROSN
 978-0198083528,earthquake resistant design of structure,DUGGAL,2017,OXFORD
-9.78812E+12,earthquake resistant design of structure,DUGGAL,2017,OXFORD
+9.79E+12,earthquake resistant design of structure,DUGGAL,2017,OXFORD
 978-0074622100,earthquake resistant design of structure,AGARWAL,2017,PHI
 978-0074622100,finite element analysis theory and,KRISHNAMOORTY,2017,MCGRAW HILL
 978-8131724644,finite element analysis theory and,KRISHNAMOORTY,2017,MCGRAW HILL
@@ -122,338 +122,338 @@ ISBN,title,author,yop,publisher
 978-0071740098,finite element procedures,BATHE,2017,PHI
 978-0070601222,foundation engineering handbook,DAY,2017,MCGRAW HILL
 978-0070601222,Fundamentals of Finite Element Analysis,DAVID V. HUTTON,2017,MCGRAW HILL
-9.7802E+12,Fundamentals of Finite Element Analysis,DAVID V. HUTTON,2017,MCGRAW HILL
-9.7802E+12,Getting started with Matlab 7,RUDRA PRATAP,2017,OXFORD
+9.78E+12,Fundamentals of Finite Element Analysis,DAVID V. HUTTON,2017,MCGRAW HILL
+9.78E+12,Getting started with Matlab 7,RUDRA PRATAP,2017,OXFORD
 978-8177585636,Getting started with Matlab 7,RUDRA PRATAP,2017,OXFORD
 978-1107518940,Management research methodology,KRISHNASWAMY,2017,PEARSON
 978-9384588663,Matrix analysis,HOM,2017,CAMBRIDGE
-9.7815E+12,the finite element method for solid and,ZIENKIEWIXZ,2017,BUTTERWORTH
-9.78013E+12,Advanced Electromagnetic Comput Kall,KALLURI,2017,ROUTLEDGE
-9.78114E+12,Steel corrosion-induced concrete cra Zha,ZHAO,2017,BUTTERWORTH - HEINEMANN
-9.7815E+12,An Introduction to Sustainable Transp Sc,SCHILLER,2017,ROUTLEDGE
-9.78013E+12,Introduction to the micromechanics   Yin,YINGTAO,2017,CRC PRESS
-9.78161E+12,Digital terrain analysis in soil  Flo,FLORINSKY,2017,ACADEMIC PRESS
-9.78082E+12,Digital drawing for designers Dou,DOUGLAS R. SEIDLER,2011,FAIRCHILD BOOKS
-9.78114E+12,Defects And Deterioration Rich,RICHARDSON BARRY,2017,CRC PRESS
-9.7815E+12,Integrating Building Performance Gran,GRANT,2017,ROUTLEDGE
-9.78082E+12,Structural Design from First Byf,BYFIELD,2017,ROUTLEDGE
-9.7815E+12,Bird's Comprehensive Engineering Bir,BIRD,2017,ROUTLEDGE
-9.78114E+12,Applied Differential Equations with  Dob,DOBRUSHKIN,2017,CRC PRESS
-9.7815E+12,Mathematical Methods for Physics Matt,MATTIAS BLENNOW,2017,CRC PRESS
-9.78939E+12,What Every Engineer Should Know  Mad,MADACHY,2017,ROUTLEDGE
-9.78114E+12,The DBS Handbook of Nanoelec Bak,BAKHTIYAR HUSSAIN,2017,DBS IMPRINTS
-9.78082E+12,Control and Dynamics in Power Sy Fan,FAN,2017,CRC PRESS
-9.7815E+12,Power Electronic Converters Iyer,IYER,2017,ROUTLEDGE
-9.78935E+12,A Systematic Approach to Learning new,NEWMAN,2017,ROUTLEDGE
-9.78935E+12,Electomagnetic Field Theory Jain,JAIN,2017,RANDOM PUBLICATIONS PUBLISHERS
-9.78148E+12,Statistics : An Introduction Using R pra,PRASAD,2017,OXFORD BOOK COMPANY
-9.7815E+12,Implementing Lean Protz,PROTZMAN,2017,CRC PRESS
-9.78164E+12,Clustering and Routing Algorithms Kuila,KUILA,2017,ROUTLEDGE
-9.78177E+12,"Bioenergy: Principles, Technology Ster",STERLING MACMILLAN,2017,LARSEN & KELLER
-9.78008E+12,Biocomputation and Biomedical Ragh,RAGHAVENDER,2017,DELVE PUBLISHING
-9.78114E+12,Project management for engineering  John,JOHN,2017,ROUTLEDGE
-9.78147E+12,Multivariate Statistics Made Sim Sarm,SARMA,2017,CHAMPAN AND HALL
-9.78168E+12,Statistical analysis of contingency  Sti,STIAN,2017,CRC PRESS
-9.78114E+12,Logistics Engineering and Manag Shel,SHELLEY LYNCH,2017,WILLFORD PRESS
-9.7815E+12,Statistical Process John,JOHN OAKLAND,2017,ROUTLEDGE
-9.78082E+12,A practical introduction to supply David,DAVID PHEASEY,2017,CRC PRESS
-9.7815E+12,Best Practices in Metropolitan Ewing,EWING,2017,ROUTLEDGE
-9.78168E+12,Soft Computing in Engineering Ghab,GHABOUSSI,2017,ROUTLEDGE
-9.78168E+12,"Theory, Practice and Techniques in",NA,2017,3G E-LEARNING
-9.78168E+12,Grid Computing,NA,2017,3G E-LEARNING
-9.7815E+12,COMPUTER AIDED DESIGN,NA,2017,3G E-LEARNING
-9.78114E+12,Computational Exome and Genome Anal Ros,ROSARIO,2017,CRC PRESS
-9.78082E+12,Introduction to Machine Learning Stamp,STAMP,2017,ROUTLEDGE
-9.78037E+12,Software Design A Comprehensive Gui Chem,CHEMUTURI,2017,CRC PRESS
-9.78163E+12,Applications of Differential Equation Ch,CHAU,2017,CRC PRESS
-9.78163E+12,Nanotechnology: NanopNanostruc Hec,HECTOR LAMB,2017,CLANRYE INTERNATIONAL
-9.78939E+12,"Aircraft Engineering: Design, StrucIan",IAN BOOTH,2017,NY RESEARCH PRESS
-9.78177E+12,Aircraft Gas Turbine Engine Techn Agra,AGRAWAL,2017,RANDOM PUBLICATIONS PUBLISHERS & DISTRIBUTORS
-9.78818E+12,Finite Element Method with Applic Yingx,YINGXIAO SONG,2017,ARCLER PRESS
-9.7815E+12,"Waves, Vibrations and Electromag Balkri",BALKRISHNA,2017,SONALI PUBLICATIONS
-9.7815E+12,Fundamentals of Rocket Propulsion Mish,MISHRA,2017,CRC PRESS
-9.78114E+12,Advanced Flight Dynamics with Anan,ANANTHKRISHNAN,2017,CRC PRESS
-9.78164E+12,Aircraft Electrical and Electronic Davi,DAVID WYATT,2017,ROUTLEDGE
-9.78813E+12,Aircraft Engineering: Design casey,CASEY STOKES,2017,LARSEN & KELLER
-9.78008E+12,Low speed wind tunnel testing,JEWEL B. BARLOW,2017,WILEY
-9.78112E+12,Aerodynamics for Engineering Hou,HOUGHTON,2017,BUTTERWORTH - HEINEMANN
-9.78179E+12,Flight Theory and Aerodynamics Brian,BRAIN,2017,WILEY
-9.78938E+12,Nanotechnology: Principles and Kit,KIT COOLEY,2017,ED-TECH.PRESS
-9.78163E+12,The DBS Handbook of Materials Scienc Muk,MUKESH KUMAR,2017,DBS IMPRINTS
-9.78114E+12,An Introduction to Materials Science Emi,EMILIO MCMAHON,2017,NY RESEARCH PRESS
-9.78938E+12,Electrical and Electronic Principl bird,BIRD,2017,ROUTLEDGE
-9.7815E+12,Empowering Learners : Teacher Traine Liz,LIZ OROURKE,2017,SHREE PUBLISHERS & DISTRIBUTORS
-9.78082E+12,Electric Power Tang,TANG,2017,CRC PRESS
-9.78114E+12,An Introduction to Electrical Sci Way,WAYGOOD,2017,ROUTLEDGE
-9.78037E+12,CMOS Analog Integrated Circuits Ndjo,NDJOUNTCHE,2017,CRC PRESS
-9.78813E+12,Electrical Installation Work Scad,SCADDAN,2017,ROUTLEDGE
-9.78813E+12,Data Structures and Algorithms Goodrich,GOODRICH,2017,WILEY
-9.78813E+12,Data Structures and Algorithms Goodrich,GOODRICH,2017,WILEY
-9.78813E+12,Data Structures and Algorithms Goodrich,GOODRICH,2017,WILEY
-9.78813E+12,Data Structures: Abstraction Koffman,KOFFMAN,2017,WILEY
-9.78939E+12,Data Structures: Abstraction Koffman,KOFFMAN,2017,WILEY
-9.78939E+12,Building Voice-Enabled Apps Becker,BECKER,2017,WILEY
-9.78813E+12,Building Voice-Enabled Apps Becker,BECKER,2017,WILEY
-9.78813E+12,Data Science and Big Data Analytics EMC,EMC,2017,WILEY
-9.78813E+12,Data Science and Big Data Analytics EMC,EMC,2017,WILEY
-9.78813E+12,"Big Data, Data Mining Dean",DEAN,2017,WILEY
-9.78813E+12,"Big Data, Data Mining Dean",DEAN,2017,WILEY
-9.78813E+12,Electric Vehicle Technology Larminie,LARMINIE,2017,WILEY
-9.78939E+12,Electric Vehicle Technology Larminie,LARMINIE,2017,WILEY
-9.78939E+12,"Core and Advanced Java, Black Book",DREAMTECH PRESS,2017,WILEY
-9.78813E+12,"Core and Advanced Java, Black Book",DREAMTECH PRESS,2017,WILEY
-9.78813E+12,Signals and Systems Haykin,HAYKIN,2017,WILEY
-9.78813E+12,Signals and Systems Haykin,HAYKIN,2017,WILEY
-9.78813E+12,Principles of Electric Machines Sen,SEN,2017,WILEY
-9.78813E+12,Principles of Electric Machines Sen,SEN,2017,WILEY
-9.78813E+12,Acing the GATE Electrical Engineering,CHATTERJEE,2017,WILEY
-9.78813E+12,Acing the GATE Electrical Engineering,CHATTERJEE,2017,WILEY
-9.78813E+12,Wireless Sensor Networks Dargie,DARGIE,2017,WILEY
-9.78813E+12,Wireless Sensor Networks Dargie,DARGIE,2017,WILEY
-9.78813E+12,Protocols and Architectures for Wireless,KARL,2017,WILEY
-9.78813E+12,Protocols and Architectures for Wireless,KARL,2017,WILEY
-9.78813E+12,Advanced Wireless Networks Glisic,GLISIC,2017,WILEY
-9.78813E+12,Advanced Wireless Networks Glisic,GLISIC,2017,WILEY
-9.78813E+12,Mobile Ad Hoc Networking Basagni,BASAGNI,2017,WILEY
-9.78813E+12,Mobile Ad Hoc Networking Basagni,BASAGNI,2017,WILEY
-9.78813E+12,Python Projects Cassell,CASSELL,2017,WILEY
-9.78813E+12,Python Projects Cassell,CASSELL,2017,WILEY
-9.78813E+12,Advanced Digital Signal Processing Apte,APTE,2017,WILEY
-9.78813E+12,Advanced Digital Signal Processing Apte,APTE,2017,WILEY
-9.78813E+12,Digital Signal Processing Apte,APTE,2017,WILEY
-9.78813E+12,Digital Signal Processing Apte,APTE,2017,WILEY
-9.78813E+12,Digital Disciplines Weinman,WEINMAN,2017,WILEY
-9.78813E+12,Digital Disciplines Weinman,WEINMAN,2017,WILEY
-9.78813E+12,Systems Engineering Dwivedi,DWIVEDI,2017,WILEY
-9.78813E+12,Systems Engineering Dwivedi,DWIVEDI,2017,WILEY
-9.78813E+12,Beginning Programming Python Mueller,MUELLER,2017,WILEY
-9.78813E+12,Embedded Systems Peckol,PECKOL,2017,WILEY
-9.78818E+12,Embedded Systems Peckol,PECKOL,2017,WILEY
-9.78813E+12,Embedded / Real-Time Systems Prasad,PRASAD,2017,WILEY
-9.78813E+12,Smart Grid: Technology Ekanayake,EKANAYAKE,2017,WILEY
-9.78813E+12,Smart Grid: Technology Ekanayake,EKANAYAKE,2017,WILEY
-9.78813E+12,Power Electronics and Variable Bose,BOSE,2017,WILEY
-9.78813E+12,Power Electronics and Variable Bose,BOSE,2017,WILEY
-9.78813E+12,Electrical Transients in Power Greenwood,GREENWOOD,2017,WILEY
-9.78813E+12,Electrical Transients in Power Greenwood,GREENWOOD,2017,WILEY
-9.78813E+12,Momentum Heat and Mass Transfer Welty,WELTY,2017,WILEY
-9.78813E+12,Momentum Heat and Mass Transfer Welty,WELTY,2017,WILEY
-9.78813E+12,Heat and Mass Transfer Incropera,INCROPERA,2017,WILEY
-9.78813E+12,Heat and Mass Transfer Incropera,INCROPERA,2017,WILEY
-9.78813E+12,Engineering Thermodynamics Moran,MORAN,2017,WILEY
-9.78813E+12,Engineering Thermodynamics Moran,MORAN,2017,WILEY
-9.78813E+12,Machining and Machine Tool Chattopadhyay,CHATTOPADHYAY,2017,WILEY
-9.78813E+12,Machining and Machine Tool Chattopadhyay,CHATTOPADHYAY,2017,WILEY
-9.78813E+12,Convection Heat Transfer Bejan,BEJAN,2017,WILEY
-9.78813E+12,Convection Heat Transfer Bejan,BEJAN,2017,WILEY
-9.78813E+12,Transport Phenomena Bird,BIRD,2017,WILEY
-9.78813E+12,Transport Phenomena Bird,BIRD,2017,WILEY
-9.78813E+12,Internal Combustion Engines Ferguson,FERGUSON,2017,WILEY
-9.78813E+12,Internal Combustion Engines Ferguson,FERGUSON,2017,WILEY
-9.78813E+12,RF and Microwave Wireless Systems Chang,CHANG,2017,WILEY
-9.78813E+12,RF and Microwave Wireless Systems Chang,CHANG,2017,WILEY
-9.78813E+12,Electromagnetic Compatibility Paul,PAUL,2017,WILEY
-9.78813E+12,Electromagnetic Compatibility Paul,PAUL,2017,WILEY
-9.78813E+12,Analog Integrated Circuit Design Caruson,CARUSONE,2017,WILEY
-9.78813E+12,Analog Integrated Circuit Design Caruson,CARUSONE,2017,WILEY
-9.78813E+12,VLSI Digital Signal Processing Parhi,PARHI,2017,WILEY
-9.78935E+12,VLSI Digital Signal Processing Parhi,PARHI,2017,WILEY
-9.78935E+12,Cloud Computing Black Book Jayaswal,JAYASWAL,2017,WILEY
-9.78813E+12,Cloud Computing Black Book Jayaswal,JAYASWAL,2017,WILEY
-9.78813E+12,Swift in the Cloud Williamson,WILLIAMSON,2017,WILEY
-9.78813E+12,Swift in the Cloud Williamson,WILLIAMSON,2017,WILEY
-9.78813E+12,Machine Component Design Juvinall,JUVINALL,2017,WILEY
-9.78813E+12,Machine Component Design Juvinall,JUVINALL,2017,WILEY
-9.78813E+12,Electronic Devices and Circuits Maini,MAINI,2017,WILEY
-9.78813E+12,Electronic Devices and Circuits Maini,MAINI,2017,WILEY
-9.78813E+12,Power System: Operation & Control Rao,RAO,2017,WILEY
-9.78813E+12,Power System: Operation & Control Rao,RAO,2017,WILEY
-9.78813E+12,Introduction to Electric Circuits Dorf,DORF,2017,WILEY
-9.78813E+12,Introduction to Electric Circuits Dorf,DORF,2017,WILEY
-9.78813E+12,Smart Grid Applications Berger,BERGER,2017,WILEY
-9.78813E+12,Smart Grid Applications Berger,BERGER,2017,WILEY
-9.78813E+12,Beginning R Gardener,GARDENER,2017,WILEY
-9.78813E+12,Beginning R Gardener,GARDENER,2017,WILEY
-9.78813E+12,Cloud Computing Sharma,SHARMA,2017,WILEY
-9.78813E+12,Cloud Computing Sharma,SHARMA,2017,WILEY
-9.78813E+12,Cloud Computing Bible Sosinsky,SOSINSKY,2017,WILEY
-9.78813E+12,Cloud Computing Bible Sosinsky,SOSINSKY,2017,WILEY
-9.78813E+12,Introduction to Robotics Niku,NIKU,2017,WILEY
-9.78813E+12,Introduction to Robotics Niku,NIKU,2017,WILEY
-9.78813E+12,Engineering Mechanics Chandra,CHANDRA,2017,WILEY
-9.78813E+12,Engineering Mechanics Chandra,CHANDRA,2017,WILEY
-9.78813E+12,Machine Learning Mueller,MUELLER,2017,WILEY
-9.78813E+12,Machine Learning Mueller,MUELLER,2017,WILEY
-9.78813E+12,Machine Learning in Python Bowles,BOWLES,2017,WILEY
-9.78813E+12,Machine Learning in Python Bowles,BOWLES,2017,WILEY
-9.78813E+12,Python for Data Science Mueller,MUELLER,2017,WILEY
-9.78813E+12,Python for Data Science Mueller,MUELLER,2017,WILEY
-9.78813E+12,Signals and Systems Krishnaveni,KRISHNAVENI,2017,WILEY
-9.78813E+12,Signals and Systems Krishnaveni,KRISHNAVENI,2017,WILEY
-9.78813E+12,Machine Learning for Big Data Bell,BELL,2017,WILEY
-9.78813E+12,Signals and Systems Krishnaveni,KRISHNAVENI,2017,WILEY
-9.78813E+12,Acing the GATE Electronics Maini,MAINI,2017,WILEY
-9.78813E+12,Acing the GATE Electronics Maini,MAINI,2017,WILEY
-9.78813E+12,Communication Systems Haykin,HAYKIN,2017,WILEY
-9.78813E+12,Communication Systems Haykin,HAYKIN,2017,WILEY
-9.78813E+12,Neoskilling for Digital transport Prasad,PRASAD,2017,WILEY
-9.78813E+12,Neoskilling for Digital transport Prasad,PRASAD,2017,WILEY
-9.78813E+12,Process Dynamics and Control Seborg,SEBORG,2017,WILEY
-9.78813E+12,Process Dynamics and Control Seborg,SEBORG,2017,WILEY
-9.78813E+12,Automation with Ansible Raheja,RAHEJA,2017,WILEY
-9.78813E+12,Automation with Ansible Raheja,RAHEJA,2017,WILEY
-9.78813E+12,Automated Data Collection with R Munzert,MUNZERT,2017,WILEY
-9.78813E+12,Automated Data Collection with R Munzert,MUNZERT,2017,WILEY
-9.78813E+12,Design Thinking Luchs,LUCHS,2017,WILEY
-9.78813E+12,Design Thinking Luchs,LUCHS,2017,WILEY
-9.78813E+12,Biomedical Signal Analysis Rangayyan,RANGAYYAN,2017,WILEY
-9.78813E+12,Biomedical Signal Analysis Rangayyan,RANGAYYAN,2017,WILEY
-9.78813E+12,Digital Communications Haykin,HAYKIN,2017,WILEY
-9.78813E+12,Digital Communications Haykin,HAYKIN,2017,WILEY
-9.78813E+12,Analog & Digital Communications Haykin,HAYKIN,2017,WILEY
-9.78813E+12,Analog & Digital Communications Haykin,HAYKIN,2017,WILEY
-9.78813E+12,Digital Communications Systems Haykin,HAYKIN,2017,WILEY
-9.78813E+12,Digital Communications Systems Haykin,HAYKIN,2017,WILEY
-9.78813E+12,Product and Process Design Seider,SEIDER,2017,WILEY
-9.78164E+12,Product and Process Design Seider,SEIDER,2017,WILEY
-9.78938E+12,Sensor & Acturators Brown,BROWN,2017,L & K
-9.78813E+12,Topology,MALIK,2017,IK
-9.78813E+12,Discrete Mathematics,ENSLEY,2017,WILEY
-9.78812E+12,Probablity Statistics & Practic Williams,WILLIAMS,2017,CENGAGE
-9.78813E+12,Mathematics Statistics Gupta,GUPTA/KAPUR,2017,S CHAND
-9.78939E+12,Mathematical Physics Gupta Bd,GUPTA BD,2017,S CHAND
-9.78813E+12,Python Programming Micheal,MICHEAL,2017,CENGAGE
-9.78332E+12,Data Science & Big Data Analytics Emc2,EMC2,2017,WILEY
-9.78938E+12,Machine Learning De Mello,DE MELLO,2017,SPRINGER
-9.78813E+12,Problem Solving & Python  Kulkarni,KULKARNI,2017,YES DEE
-9.78813E+12,Probablity & Statistics Mendenhall,MENDENHALL,2017,CENGAGE
-9.78813E+12,Linear Algebra Poole,POOLE,2017,CENGAGE
-9.78813E+12,Calculus Early Transcendentals Stewart,STEWART,2017,CENGAGE
-9.78164E+12,Defferential Equations With Model Zill,ZILL,2017,CENGAGE
-9.78813E+12,Engineering Mathematics Crawford,CRAWFORD,2017,LARSEN KELLER
-9.78144E+12,Calculus Early Transcendentals Stewart,STEWART,2017,CENGAGE
-9.78132E+12,Statistics In Engineering Metcalfe,METCALFE,2017,CRC
-9.78813E+12,Convex Optimization Boyd,BOYD,2017,CAMBRIDGE
-9.78819E+12,Probablity Statistics & Practic Williams,WILLIAMS,2017,CENGAGE
-9.78939E+12,Industrial Biotechnology Thakur,THAKUR,2017,IK
-9.78939E+12,Problem Solving & Python Progr Kulkarni,KULKARNI,2017,YESDEE
-9.78813E+12,Strategic Management Hitt,HITT,2017,CENGAGE
-9.78813E+12,Principles Of Macroeconomics Mankiw,MANKIW,2017,CENGAGE
-9.78812E+12,Principles Of Management Tripathy,TRIPATHY,2017,CENGAGE
-9.78813E+12,Retail Management Singh,SINGH,2017,S CHAND
-9.78813E+12,Essential Of Business Analysis Camm,CAMM,2017,CENGAGE
-9.78813E+12,Business Analytics Albright,ALBRIGHT,2017,CENGAGE
-9.78178E+12,Esd In Silicon Integrated  Amerasekera,AMERASEKERA,2017,WILEY
-9.78813E+12,Machine Learning With R Lantz,LANTZ,2017,PACKT
-9.78813E+12,Rfid Systems Bolic,BOLIC,2017,WILEY INDIA
-9.78332E+12,Wireless Sensor Networks Akyiliz,AKYILIZ,2017,WILEY INDIA
-9.78938E+12,5g Wirless Systems Yang Yang,YANG YANG,2017,SPRINGER
-9.78813E+12,Introduciton To Adaptive Array Mongzing,MONGZINGO,2017,YES DEE
-9.78938E+12,The Anatomy Of The Aeroplane Stinton,STINTON,2017,WILEY
-9.78114E+12,Aircraft Instrumentation Nagabhushan,NAGABHUSHAN,2017,IK
-9.78938E+12,Rotor Systems Tiwari,TIWARI,2017,CRC
-9.78939E+12,Air Breathing Engines Husain,HUSAIN,2017,IK
-9.78939E+12,Understanding Creo Parametric Kumar,KUMAR,2017,IK
-9.78047E+12,Understanding Aerospace Chemicl Mukunda,MUKUNDA,2017,IK
-9.78075E+12,Gas Turbine Propulsion Systems Maclsaac,MACLSAAC,2017,WILEY
-9.78813E+12,Aircraft Electrical & Electronic Tooley,TOOLEY,2017,ROUTLEDGE
-9.78112E+12,Phased Array Antennas Hansen,HANSEN,2017,WILEY
-9.78813E+12,Flight Theory & Aerodynamics Dole,DOLE,2017,WILEY
-9.78111E+12,Unmanned Aircraft Systems Austin,AUSTIN,2017,WILEY
-9.78935E+12,Introduction To Aircraft Design Fieldin,FIELDING,2017,CAMBRIDGE
-9.78818E+12,Mechatronics Systems Design,SHETTY,2016,CENGAGE
-9.78939E+12,100 Great Inspiring Stories,XAVIER,2016,JAICO
-9.78818E+12,Dare To Win,CHEGWIN,2016,JAICO
-9.78818E+12,The Mastery Manual,ROBIN SHARMA,2016,JAICO
-9.78817E+12,50 Magnificent Indians Of The 20th Centu,LAL,2016,JAICO
-9.78818E+12,Nobel Laureates,SRINIVASAN,2016,SURA
-9.78817E+12,How To Think Like Stephen Hawking,DANIEL SMITH,2016,MANJUL
-9.78014E+12,100 Mini Sketches Of The The Great,VINITA,2016,SURA
-9.78818E+12,Physics Of The Impossible,MICHIO KAKU,2016,PENGUIN
-9.78939E+12,75 People Who Change The World,RIFKIN,2016,JAICO
-9.78939E+12,Tales From The History Of Mathematics,SARAT,2016,JAICO
-9.78818E+12,The Book Of Amazing Stories,PETTERSON,2016,JAICO
+9.78E+12,the finite element method for solid and,ZIENKIEWIXZ,2017,BUTTERWORTH
+9.78E+12,Advanced Electromagnetic Comput Kall,KALLURI,2017,ROUTLEDGE
+9.78E+12,Steel corrosion-induced concrete cra Zha,ZHAO,2017,BUTTERWORTH - HEINEMANN
+9.78E+12,An Introduction to Sustainable Transp Sc,SCHILLER,2017,ROUTLEDGE
+9.78E+12,Introduction to the micromechanics   Yin,YINGTAO,2017,CRC PRESS
+9.78E+12,Digital terrain analysis in soil  Flo,FLORINSKY,2017,ACADEMIC PRESS
+9.78E+12,Digital drawing for designers Dou,DOUGLAS R. SEIDLER,2011,FAIRCHILD BOOKS
+9.78E+12,Defects And Deterioration Rich,RICHARDSON BARRY,2017,CRC PRESS
+9.78E+12,Integrating Building Performance Gran,GRANT,2017,ROUTLEDGE
+9.78E+12,Structural Design from First Byf,BYFIELD,2017,ROUTLEDGE
+9.78E+12,Bird's Comprehensive Engineering Bir,BIRD,2017,ROUTLEDGE
+9.78E+12,Applied Differential Equations with  Dob,DOBRUSHKIN,2017,CRC PRESS
+9.78E+12,Mathematical Methods for Physics Matt,MATTIAS BLENNOW,2017,CRC PRESS
+9.79E+12,What Every Engineer Should Know  Mad,MADACHY,2017,ROUTLEDGE
+9.78E+12,The DBS Handbook of Nanoelec Bak,BAKHTIYAR HUSSAIN,2017,DBS IMPRINTS
+9.78E+12,Control and Dynamics in Power Sy Fan,FAN,2017,CRC PRESS
+9.78E+12,Power Electronic Converters Iyer,IYER,2017,ROUTLEDGE
+9.79E+12,A Systematic Approach to Learning new,NEWMAN,2017,ROUTLEDGE
+9.79E+12,Electomagnetic Field Theory Jain,JAIN,2017,RANDOM PUBLICATIONS PUBLISHERS
+9.78E+12,Statistics : An Introduction Using R pra,PRASAD,2017,OXFORD BOOK COMPANY
+9.78E+12,Implementing Lean Protz,PROTZMAN,2017,CRC PRESS
+9.78E+12,Clustering and Routing Algorithms Kuila,KUILA,2017,ROUTLEDGE
+9.78E+12,"Bioenergy: Principles, Technology Ster",STERLING MACMILLAN,2017,LARSEN & KELLER
+9.78E+12,Biocomputation and Biomedical Ragh,RAGHAVENDER,2017,DELVE PUBLISHING
+9.78E+12,Project management for engineering  John,JOHN,2017,ROUTLEDGE
+9.78E+12,Multivariate Statistics Made Sim Sarm,SARMA,2017,CHAMPAN AND HALL
+9.78E+12,Statistical analysis of contingency  Sti,STIAN,2017,CRC PRESS
+9.78E+12,Logistics Engineering and Manag Shel,SHELLEY LYNCH,2017,WILLFORD PRESS
+9.78E+12,Statistical Process John,JOHN OAKLAND,2017,ROUTLEDGE
+9.78E+12,A practical introduction to supply David,DAVID PHEASEY,2017,CRC PRESS
+9.78E+12,Best Practices in Metropolitan Ewing,EWING,2017,ROUTLEDGE
+9.78E+12,Soft Computing in Engineering Ghab,GHABOUSSI,2017,ROUTLEDGE
+9.78E+12,"Theory, Practice and Techniques in",NA,2017,3G E-LEARNING
+9.78E+12,Grid Computing,NA,2017,3G E-LEARNING
+9.78E+12,COMPUTER AIDED DESIGN,NA,2017,3G E-LEARNING
+9.78E+12,Computational Exome and Genome Anal Ros,ROSARIO,2017,CRC PRESS
+9.78E+12,Introduction to Machine Learning Stamp,STAMP,2017,ROUTLEDGE
+9.78E+12,Software Design A Comprehensive Gui Chem,CHEMUTURI,2017,CRC PRESS
+9.78E+12,Applications of Differential Equation Ch,CHAU,2017,CRC PRESS
+9.78E+12,Nanotechnology: NanopNanostruc Hec,HECTOR LAMB,2017,CLANRYE INTERNATIONAL
+9.79E+12,"Aircraft Engineering: Design, StrucIan",IAN BOOTH,2017,NY RESEARCH PRESS
+9.78E+12,Aircraft Gas Turbine Engine Techn Agra,AGRAWAL,2017,RANDOM PUBLICATIONS PUBLISHERS & DISTRIBUTORS
+9.79E+12,Finite Element Method with Applic Yingx,YINGXIAO SONG,2017,ARCLER PRESS
+9.78E+12,"Waves, Vibrations and Electromag Balkri",BALKRISHNA,2017,SONALI PUBLICATIONS
+9.78E+12,Fundamentals of Rocket Propulsion Mish,MISHRA,2017,CRC PRESS
+9.78E+12,Advanced Flight Dynamics with Anan,ANANTHKRISHNAN,2017,CRC PRESS
+9.78E+12,Aircraft Electrical and Electronic Davi,DAVID WYATT,2017,ROUTLEDGE
+9.79E+12,Aircraft Engineering: Design casey,CASEY STOKES,2017,LARSEN & KELLER
+9.78E+12,Low speed wind tunnel testing,JEWEL B. BARLOW,2017,WILEY
+9.78E+12,Aerodynamics for Engineering Hou,HOUGHTON,2017,BUTTERWORTH - HEINEMANN
+9.78E+12,Flight Theory and Aerodynamics Brian,BRAIN,2017,WILEY
+9.79E+12,Nanotechnology: Principles and Kit,KIT COOLEY,2017,ED-TECH.PRESS
+9.78E+12,The DBS Handbook of Materials Scienc Muk,MUKESH KUMAR,2017,DBS IMPRINTS
+9.78E+12,An Introduction to Materials Science Emi,EMILIO MCMAHON,2017,NY RESEARCH PRESS
+9.79E+12,Electrical and Electronic Principl bird,BIRD,2017,ROUTLEDGE
+9.78E+12,Empowering Learners : Teacher Traine Liz,LIZ OROURKE,2017,SHREE PUBLISHERS & DISTRIBUTORS
+9.78E+12,Electric Power Tang,TANG,2017,CRC PRESS
+9.78E+12,An Introduction to Electrical Sci Way,WAYGOOD,2017,ROUTLEDGE
+9.78E+12,CMOS Analog Integrated Circuits Ndjo,NDJOUNTCHE,2017,CRC PRESS
+9.79E+12,Electrical Installation Work Scad,SCADDAN,2017,ROUTLEDGE
+9.79E+12,Data Structures and Algorithms Goodrich,GOODRICH,2017,WILEY
+9.79E+12,Data Structures and Algorithms Goodrich,GOODRICH,2017,WILEY
+9.79E+12,Data Structures and Algorithms Goodrich,GOODRICH,2017,WILEY
+9.79E+12,Data Structures: Abstraction Koffman,KOFFMAN,2017,WILEY
+9.79E+12,Data Structures: Abstraction Koffman,KOFFMAN,2017,WILEY
+9.79E+12,Building Voice-Enabled Apps Becker,BECKER,2017,WILEY
+9.79E+12,Building Voice-Enabled Apps Becker,BECKER,2017,WILEY
+9.79E+12,Data Science and Big Data Analytics EMC,EMC,2017,WILEY
+9.79E+12,Data Science and Big Data Analytics EMC,EMC,2017,WILEY
+9.79E+12,"Big Data, Data Mining Dean",DEAN,2017,WILEY
+9.79E+12,"Big Data, Data Mining Dean",DEAN,2017,WILEY
+9.79E+12,Electric Vehicle Technology Larminie,LARMINIE,2017,WILEY
+9.79E+12,Electric Vehicle Technology Larminie,LARMINIE,2017,WILEY
+9.79E+12,"Core and Advanced Java, Black Book",DREAMTECH PRESS,2017,WILEY
+9.79E+12,"Core and Advanced Java, Black Book",DREAMTECH PRESS,2017,WILEY
+9.79E+12,Signals and Systems Haykin,HAYKIN,2017,WILEY
+9.79E+12,Signals and Systems Haykin,HAYKIN,2017,WILEY
+9.79E+12,Principles of Electric Machines Sen,SEN,2017,WILEY
+9.79E+12,Principles of Electric Machines Sen,SEN,2017,WILEY
+9.79E+12,Acing the GATE Electrical Engineering,CHATTERJEE,2017,WILEY
+9.79E+12,Acing the GATE Electrical Engineering,CHATTERJEE,2017,WILEY
+9.79E+12,Wireless Sensor Networks Dargie,DARGIE,2017,WILEY
+9.79E+12,Wireless Sensor Networks Dargie,DARGIE,2017,WILEY
+9.79E+12,Protocols and Architectures for Wireless,KARL,2017,WILEY
+9.79E+12,Protocols and Architectures for Wireless,KARL,2017,WILEY
+9.79E+12,Advanced Wireless Networks Glisic,GLISIC,2017,WILEY
+9.79E+12,Advanced Wireless Networks Glisic,GLISIC,2017,WILEY
+9.79E+12,Mobile Ad Hoc Networking Basagni,BASAGNI,2017,WILEY
+9.79E+12,Mobile Ad Hoc Networking Basagni,BASAGNI,2017,WILEY
+9.79E+12,Python Projects Cassell,CASSELL,2017,WILEY
+9.79E+12,Python Projects Cassell,CASSELL,2017,WILEY
+9.79E+12,Advanced Digital Signal Processing Apte,APTE,2017,WILEY
+9.79E+12,Advanced Digital Signal Processing Apte,APTE,2017,WILEY
+9.79E+12,Digital Signal Processing Apte,APTE,2017,WILEY
+9.79E+12,Digital Signal Processing Apte,APTE,2017,WILEY
+9.79E+12,Digital Disciplines Weinman,WEINMAN,2017,WILEY
+9.79E+12,Digital Disciplines Weinman,WEINMAN,2017,WILEY
+9.79E+12,Systems Engineering Dwivedi,DWIVEDI,2017,WILEY
+9.79E+12,Systems Engineering Dwivedi,DWIVEDI,2017,WILEY
+9.79E+12,Beginning Programming Python Mueller,MUELLER,2017,WILEY
+9.79E+12,Embedded Systems Peckol,PECKOL,2017,WILEY
+9.79E+12,Embedded Systems Peckol,PECKOL,2017,WILEY
+9.79E+12,Embedded / Real-Time Systems Prasad,PRASAD,2017,WILEY
+9.79E+12,Smart Grid: Technology Ekanayake,EKANAYAKE,2017,WILEY
+9.79E+12,Smart Grid: Technology Ekanayake,EKANAYAKE,2017,WILEY
+9.79E+12,Power Electronics and Variable Bose,BOSE,2017,WILEY
+9.79E+12,Power Electronics and Variable Bose,BOSE,2017,WILEY
+9.79E+12,Electrical Transients in Power Greenwood,GREENWOOD,2017,WILEY
+9.79E+12,Electrical Transients in Power Greenwood,GREENWOOD,2017,WILEY
+9.79E+12,Momentum Heat and Mass Transfer Welty,WELTY,2017,WILEY
+9.79E+12,Momentum Heat and Mass Transfer Welty,WELTY,2017,WILEY
+9.79E+12,Heat and Mass Transfer Incropera,INCROPERA,2017,WILEY
+9.79E+12,Heat and Mass Transfer Incropera,INCROPERA,2017,WILEY
+9.79E+12,Engineering Thermodynamics Moran,MORAN,2017,WILEY
+9.79E+12,Engineering Thermodynamics Moran,MORAN,2017,WILEY
+9.79E+12,Machining and Machine Tool Chattopadhyay,CHATTOPADHYAY,2017,WILEY
+9.79E+12,Machining and Machine Tool Chattopadhyay,CHATTOPADHYAY,2017,WILEY
+9.79E+12,Convection Heat Transfer Bejan,BEJAN,2017,WILEY
+9.79E+12,Convection Heat Transfer Bejan,BEJAN,2017,WILEY
+9.79E+12,Transport Phenomena Bird,BIRD,2017,WILEY
+9.79E+12,Transport Phenomena Bird,BIRD,2017,WILEY
+9.79E+12,Internal Combustion Engines Ferguson,FERGUSON,2017,WILEY
+9.79E+12,Internal Combustion Engines Ferguson,FERGUSON,2017,WILEY
+9.79E+12,RF and Microwave Wireless Systems Chang,CHANG,2017,WILEY
+9.79E+12,RF and Microwave Wireless Systems Chang,CHANG,2017,WILEY
+9.79E+12,Electromagnetic Compatibility Paul,PAUL,2017,WILEY
+9.79E+12,Electromagnetic Compatibility Paul,PAUL,2017,WILEY
+9.79E+12,Analog Integrated Circuit Design Caruson,CARUSONE,2017,WILEY
+9.79E+12,Analog Integrated Circuit Design Caruson,CARUSONE,2017,WILEY
+9.79E+12,VLSI Digital Signal Processing Parhi,PARHI,2017,WILEY
+9.79E+12,VLSI Digital Signal Processing Parhi,PARHI,2017,WILEY
+9.79E+12,Cloud Computing Black Book Jayaswal,JAYASWAL,2017,WILEY
+9.79E+12,Cloud Computing Black Book Jayaswal,JAYASWAL,2017,WILEY
+9.79E+12,Swift in the Cloud Williamson,WILLIAMSON,2017,WILEY
+9.79E+12,Swift in the Cloud Williamson,WILLIAMSON,2017,WILEY
+9.79E+12,Machine Component Design Juvinall,JUVINALL,2017,WILEY
+9.79E+12,Machine Component Design Juvinall,JUVINALL,2017,WILEY
+9.79E+12,Electronic Devices and Circuits Maini,MAINI,2017,WILEY
+9.79E+12,Electronic Devices and Circuits Maini,MAINI,2017,WILEY
+9.79E+12,Power System: Operation & Control Rao,RAO,2017,WILEY
+9.79E+12,Power System: Operation & Control Rao,RAO,2017,WILEY
+9.79E+12,Introduction to Electric Circuits Dorf,DORF,2017,WILEY
+9.79E+12,Introduction to Electric Circuits Dorf,DORF,2017,WILEY
+9.79E+12,Smart Grid Applications Berger,BERGER,2017,WILEY
+9.79E+12,Smart Grid Applications Berger,BERGER,2017,WILEY
+9.79E+12,Beginning R Gardener,GARDENER,2017,WILEY
+9.79E+12,Beginning R Gardener,GARDENER,2017,WILEY
+9.79E+12,Cloud Computing Sharma,SHARMA,2017,WILEY
+9.79E+12,Cloud Computing Sharma,SHARMA,2017,WILEY
+9.79E+12,Cloud Computing Bible Sosinsky,SOSINSKY,2017,WILEY
+9.79E+12,Cloud Computing Bible Sosinsky,SOSINSKY,2017,WILEY
+9.79E+12,Introduction to Robotics Niku,NIKU,2017,WILEY
+9.79E+12,Introduction to Robotics Niku,NIKU,2017,WILEY
+9.79E+12,Engineering Mechanics Chandra,CHANDRA,2017,WILEY
+9.79E+12,Engineering Mechanics Chandra,CHANDRA,2017,WILEY
+9.79E+12,Machine Learning Mueller,MUELLER,2017,WILEY
+9.79E+12,Machine Learning Mueller,MUELLER,2017,WILEY
+9.79E+12,Machine Learning in Python Bowles,BOWLES,2017,WILEY
+9.79E+12,Machine Learning in Python Bowles,BOWLES,2017,WILEY
+9.79E+12,Python for Data Science Mueller,MUELLER,2017,WILEY
+9.79E+12,Python for Data Science Mueller,MUELLER,2017,WILEY
+9.79E+12,Signals and Systems Krishnaveni,KRISHNAVENI,2017,WILEY
+9.79E+12,Signals and Systems Krishnaveni,KRISHNAVENI,2017,WILEY
+9.79E+12,Machine Learning for Big Data Bell,BELL,2017,WILEY
+9.79E+12,Signals and Systems Krishnaveni,KRISHNAVENI,2017,WILEY
+9.79E+12,Acing the GATE Electronics Maini,MAINI,2017,WILEY
+9.79E+12,Acing the GATE Electronics Maini,MAINI,2017,WILEY
+9.79E+12,Communication Systems Haykin,HAYKIN,2017,WILEY
+9.79E+12,Communication Systems Haykin,HAYKIN,2017,WILEY
+9.79E+12,Neoskilling for Digital transport Prasad,PRASAD,2017,WILEY
+9.79E+12,Neoskilling for Digital transport Prasad,PRASAD,2017,WILEY
+9.79E+12,Process Dynamics and Control Seborg,SEBORG,2017,WILEY
+9.79E+12,Process Dynamics and Control Seborg,SEBORG,2017,WILEY
+9.79E+12,Automation with Ansible Raheja,RAHEJA,2017,WILEY
+9.79E+12,Automation with Ansible Raheja,RAHEJA,2017,WILEY
+9.79E+12,Automated Data Collection with R Munzert,MUNZERT,2017,WILEY
+9.79E+12,Automated Data Collection with R Munzert,MUNZERT,2017,WILEY
+9.79E+12,Design Thinking Luchs,LUCHS,2017,WILEY
+9.79E+12,Design Thinking Luchs,LUCHS,2017,WILEY
+9.79E+12,Biomedical Signal Analysis Rangayyan,RANGAYYAN,2017,WILEY
+9.79E+12,Biomedical Signal Analysis Rangayyan,RANGAYYAN,2017,WILEY
+9.79E+12,Digital Communications Haykin,HAYKIN,2017,WILEY
+9.79E+12,Digital Communications Haykin,HAYKIN,2017,WILEY
+9.79E+12,Analog & Digital Communications Haykin,HAYKIN,2017,WILEY
+9.79E+12,Analog & Digital Communications Haykin,HAYKIN,2017,WILEY
+9.79E+12,Digital Communications Systems Haykin,HAYKIN,2017,WILEY
+9.79E+12,Digital Communications Systems Haykin,HAYKIN,2017,WILEY
+9.79E+12,Product and Process Design Seider,SEIDER,2017,WILEY
+9.78E+12,Product and Process Design Seider,SEIDER,2017,WILEY
+9.79E+12,Sensor & Acturators Brown,BROWN,2017,L & K
+9.79E+12,Topology,MALIK,2017,IK
+9.79E+12,Discrete Mathematics,ENSLEY,2017,WILEY
+9.79E+12,Probablity Statistics & Practic Williams,WILLIAMS,2017,CENGAGE
+9.79E+12,Mathematics Statistics Gupta,GUPTA/KAPUR,2017,S CHAND
+9.79E+12,Mathematical Physics Gupta Bd,GUPTA BD,2017,S CHAND
+9.79E+12,Python Programming Micheal,MICHEAL,2017,CENGAGE
+9.78E+12,Data Science & Big Data Analytics Emc2,EMC2,2017,WILEY
+9.79E+12,Machine Learning De Mello,DE MELLO,2017,SPRINGER
+9.79E+12,Problem Solving & Python  Kulkarni,KULKARNI,2017,YES DEE
+9.79E+12,Probablity & Statistics Mendenhall,MENDENHALL,2017,CENGAGE
+9.79E+12,Linear Algebra Poole,POOLE,2017,CENGAGE
+9.79E+12,Calculus Early Transcendentals Stewart,STEWART,2017,CENGAGE
+9.78E+12,Defferential Equations With Model Zill,ZILL,2017,CENGAGE
+9.79E+12,Engineering Mathematics Crawford,CRAWFORD,2017,LARSEN KELLER
+9.78E+12,Calculus Early Transcendentals Stewart,STEWART,2017,CENGAGE
+9.78E+12,Statistics In Engineering Metcalfe,METCALFE,2017,CRC
+9.79E+12,Convex Optimization Boyd,BOYD,2017,CAMBRIDGE
+9.79E+12,Probablity Statistics & Practic Williams,WILLIAMS,2017,CENGAGE
+9.79E+12,Industrial Biotechnology Thakur,THAKUR,2017,IK
+9.79E+12,Problem Solving & Python Progr Kulkarni,KULKARNI,2017,YESDEE
+9.79E+12,Strategic Management Hitt,HITT,2017,CENGAGE
+9.79E+12,Principles Of Macroeconomics Mankiw,MANKIW,2017,CENGAGE
+9.79E+12,Principles Of Management Tripathy,TRIPATHY,2017,CENGAGE
+9.79E+12,Retail Management Singh,SINGH,2017,S CHAND
+9.79E+12,Essential Of Business Analysis Camm,CAMM,2017,CENGAGE
+9.79E+12,Business Analytics Albright,ALBRIGHT,2017,CENGAGE
+9.78E+12,Esd In Silicon Integrated  Amerasekera,AMERASEKERA,2017,WILEY
+9.79E+12,Machine Learning With R Lantz,LANTZ,2017,PACKT
+9.79E+12,Rfid Systems Bolic,BOLIC,2017,WILEY INDIA
+9.78E+12,Wireless Sensor Networks Akyiliz,AKYILIZ,2017,WILEY INDIA
+9.79E+12,5g Wirless Systems Yang Yang,YANG YANG,2017,SPRINGER
+9.79E+12,Introduciton To Adaptive Array Mongzing,MONGZINGO,2017,YES DEE
+9.79E+12,The Anatomy Of The Aeroplane Stinton,STINTON,2017,WILEY
+9.78E+12,Aircraft Instrumentation Nagabhushan,NAGABHUSHAN,2017,IK
+9.79E+12,Rotor Systems Tiwari,TIWARI,2017,CRC
+9.79E+12,Air Breathing Engines Husain,HUSAIN,2017,IK
+9.79E+12,Understanding Creo Parametric Kumar,KUMAR,2017,IK
+9.78E+12,Understanding Aerospace Chemicl Mukunda,MUKUNDA,2017,IK
+9.78E+12,Gas Turbine Propulsion Systems Maclsaac,MACLSAAC,2017,WILEY
+9.79E+12,Aircraft Electrical & Electronic Tooley,TOOLEY,2017,ROUTLEDGE
+9.78E+12,Phased Array Antennas Hansen,HANSEN,2017,WILEY
+9.79E+12,Flight Theory & Aerodynamics Dole,DOLE,2017,WILEY
+9.78E+12,Unmanned Aircraft Systems Austin,AUSTIN,2017,WILEY
+9.79E+12,Introduction To Aircraft Design Fieldin,FIELDING,2017,CAMBRIDGE
+9.79E+12,Mechatronics Systems Design,SHETTY,2016,CENGAGE
+9.79E+12,100 Great Inspiring Stories,XAVIER,2016,JAICO
+9.79E+12,Dare To Win,CHEGWIN,2016,JAICO
+9.79E+12,The Mastery Manual,ROBIN SHARMA,2016,JAICO
+9.79E+12,50 Magnificent Indians Of The 20th Centu,LAL,2016,JAICO
+9.79E+12,Nobel Laureates,SRINIVASAN,2016,SURA
+9.79E+12,How To Think Like Stephen Hawking,DANIEL SMITH,2016,MANJUL
+9.78E+12,100 Mini Sketches Of The The Great,VINITA,2016,SURA
+9.79E+12,Physics Of The Impossible,MICHIO KAKU,2016,PENGUIN
+9.79E+12,75 People Who Change The World,RIFKIN,2016,JAICO
+9.79E+12,Tales From The History Of Mathematics,SARAT,2016,JAICO
+9.79E+12,The Book Of Amazing Stories,PETTERSON,2016,JAICO
 8192395502,The Science Of Success,NAPOLEO HILL,2016,JAICO
 8192395502,Mokshagundam Visveswaraiah,NARAYANARAO,2016,ANKITA
-9.78178E+12,Mankutimmana Kagga - Tatvparya,D V G,2016,KRIKANT
-9.78008E+12,Advanced Machine Learning With Python,HEARTY,2016,PACKT
-9.78939E+12,A Practical Approach To Motor Vehicle En,BONNICK,2016,ROUTLEDGE
-9.78939E+12,Python Programming The Absolute Beginee,DAWSON,2016,CENGAGE
-9.78939E+12,Image Processing Analysis & Machine Vis,SONKA,2016,CENGAGE
-9.78939E+12,Digital Image Processing With,SINGH,2016,CENGAGE
-9.78938E+12,Electronic Measurement & Instrumentatio,IMAM,2016,IK
-9.78938E+12,Lasers & Optical Instrumentation,NAGABUSAN,2016,IK
-9.78938E+12,Biomedical Electronics & Instru Sawheny,SAWHENY,2016,IK
-9.78938E+12,Biosensors & Bioelectronics Reddy,D REDDY,2016,IK
-9.78939E+12,Computer Techniques And Models Uma Rao,UMA RAO,2016,IK
-9.7815E+12,Basic Electrical Engineering Uma Rao,UMA RAO,2016,IK
-9.78114E+12,Power Systems Handbook 4 Vol Set,DAS,2016,CRC
-9.78114E+12,Wind Energy Nelson,NELSON,2016,CRC
-9.78813E+12,Protective Relaying Blackburn,BLACKBURN,2016,CRC
-9.78813E+12,Fundaemtnals Of Logic Design Roth,ROTH,2016,CENGAGE
-9.78813E+12,Network Analysis Venkatesh,VENKATESH,2016,CENGAGE
-9.78112E+12,Power Electronics Ambram,AMBRAM,2016,CENGAGE
-9.78938E+12,Switching In Electrical Transmis Smeets,SMEETS,2016,WILEY
-9.78938E+12,Analysis Design Of Foundations Saran,SWAMI SARAN,2016,IK
-9.78938E+12,Advanced Guide To Matlab Alam,ALAM,2016,IK
-9.78938E+12,Highway Material Testing & Quality Rao,VENKATAPPA RAO,2016,IK
-9.78938E+12,Strength & Deformation Of Determ Kumar,KUMAR,2016,IK
-9.78813E+12,Fine Tuning Of Road & Building Das,DAS,2016,IK
-9.78939E+12,Introduction To Soil Mechanics Bodo,BODO,2016,WILEY BLACKWEL
-9.78114E+12,Surveying & Levelling Vol 2 Bhavikatti,BHAVIKATTI,2016,IK
-9.78939E+12,Concrete Buildings In Seismic Penelis,PENELIS,2016,CRC
-9.78939E+12,Basic Structural Analysis Muthu,MUTHU,2016,IK
-9.78938E+12,Surveying Theory & Practice Bhavikatti,BHAVIKATTI,2016,IK
-9.78938E+12,Foundation Engineering Khitoliya,KHITOLIYA,2016,IK
-9.78114E+12,Concrete Technology Bhavikatti,BHAVIKATTI,2016,IK
-9.78085E+12,Highway Engineering Nikolaides,NIKOLAIDES,2016,CRC
-9.78938E+12,Soil Sampling Prepatation Tan,TAN,2016,CRC
-9.78939E+12,Indeterminate Structural Anlysis Muthu,MUTHU,2016,IK
-9.78082E+12,Reliability Based Analysis & Des Devaraj,DEVARAJ V,2016,IK
-9.78938E+12,Matrix Methods Of Structural Nagarajan,NAGARAJAN,2016,CRC
-9.78144E+12,Manual For Detailing Of Steel Strucures,KANTHIMATHINATAHN,2016,IK
-9.78132E+12,Advanced Energy Systems Khartchenko,KHARTCHENKO,2016,CRC
-9.78813E+12,Fatigue Of Materials Suresh,SURESH,2016,CAMBRIDGE
-9.78813E+12,Engineering Mechanics Harbola,HARBOLA,2016,CENGAGE
-9.78114E+12,Design Of Fuide Thermal Systems Jonna,JONNA,2016,CENGAGE
-9.78938E+12,Computational Methods For Heat Majumdar,MAJUMDAR,2016,CRC
-9.78819E+12,Analysis & Design Of Machine Jadon,JADON,2016,IK
-9.78939E+12,Bond Graph In Modeling Simu Mukherjee,MUKHERJEE,2016,IK
-9.78813E+12,Computer Graphics With Open Gl Raikar,RAIKAR,2016,CENGAGE
-9.78939E+12,Mechatronics Systems Design Shetty,SHETTY,2016,CENGAGE
-9.78939E+12,Pneumatic & Hydraulic Systems Singh,SINGH,2016,IK
-9.78812E+12,Working With Ansys Zindani,ZINDANI,2016,IK
-9.78812E+12,A Textbook Of Mechatronics Rajput,RAJPUT,2017,S CHAND
-9.78813E+12,Highway Engineering Sharma,SHARMA,2017,S CHAND
-9.78813E+12,Finite Element Analysis Logan,LOGAN,2017,CENGAGE
-9.78939E+12,Deformation & Fracture Mechani Hertzber,HERTZBERG,2017,WILEY
-9.78813E+12,Strength Of Materials Vol 1 Binu Kumar,BINU KUMAR,2017,YES DEE
-9.78938E+12,Beginning Android 4 Application Dev Lee,LEE,2017,WROX
-9.78939E+12,Jet Engines Jaganathan,JAGANATHAN,2017,YES DEE
-9.78939E+12,Engineering Chemistry Savita Garg,SAVITA GARG,2017,IK
-9.78938E+12,Finite Automata & Formal Languages Redd,REDDY,2017,CENGAGE
-9.78818E+12,Microwave & Rf Design Steer,STEER,2017,YES DEE
-9.78938E+11,Radio Frequency & Microwave Radmanesh,RADMANESH,2017,PEARSON
-9.78939E+12,Higher Engineering Mathematics Veeraraja,VEERARAJAN,2017,YES DEE
-9.78939E+12,Digital Systems Design Using Verilog Rot,ROTH,2017,CENGAGE
-9.78935E+12,Principles Of Information Security Whitm,WHITMAN,2017,CENGAGE
-9.78813E+12,Objective Mechanical Engineering Mithal,MITHAL,2017,GK
-9.78935E+12,Artificial Intelligence Kaushik,KAUSHIK,2017,CENGAGE
-9.78938E+12,Technical Communicaton Chauhan,CHAUHAN,2017,CENGAGE
-9.78819E+12,Vlsi Design Lal Kishore,LAL KISHORE,2017,IK
-9.78938E+12,Engineering Maths Vol 2 Shankar Rao,SHANKAR RAO,2017,IK
-9.78933E+12,Operations Research Veerachamy,VEERACHAMY,2017,IK
-9.78938E+12,Research Methodology Chawla,CHAWLA,2017,VIKAS
-9.78813E+12,Compiler Design Winster,WINSTER,2017,YES DEE
-9.78813E+12,Web Programing Bates,BATES,2017,WILEY
-9.78938E+12,Environmental Science Miller,MILLER,2017,CENGAGE
-9.78938E+12,Advanced Mathematics Vol 2 Mujawar,MUJAWAR,2017,IK
-9.78938E+12,Engineering Mathematics Vol 3 Mujawar,MUJAWAR,2017,IK
+9.78E+12,Mankutimmana Kagga - Tatvparya,D V G,2016,KRIKANT
+9.78E+12,Advanced Machine Learning With Python,HEARTY,2016,PACKT
+9.79E+12,A Practical Approach To Motor Vehicle En,BONNICK,2016,ROUTLEDGE
+9.79E+12,Python Programming The Absolute Beginee,DAWSON,2016,CENGAGE
+9.79E+12,Image Processing Analysis & Machine Vis,SONKA,2016,CENGAGE
+9.79E+12,Digital Image Processing With,SINGH,2016,CENGAGE
+9.79E+12,Electronic Measurement & Instrumentatio,IMAM,2016,IK
+9.79E+12,Lasers & Optical Instrumentation,NAGABUSAN,2016,IK
+9.79E+12,Biomedical Electronics & Instru Sawheny,SAWHENY,2016,IK
+9.79E+12,Biosensors & Bioelectronics Reddy,D REDDY,2016,IK
+9.79E+12,Computer Techniques And Models Uma Rao,UMA RAO,2016,IK
+9.78E+12,Basic Electrical Engineering Uma Rao,UMA RAO,2016,IK
+9.78E+12,Power Systems Handbook 4 Vol Set,DAS,2016,CRC
+9.78E+12,Wind Energy Nelson,NELSON,2016,CRC
+9.79E+12,Protective Relaying Blackburn,BLACKBURN,2016,CRC
+9.79E+12,Fundaemtnals Of Logic Design Roth,ROTH,2016,CENGAGE
+9.79E+12,Network Analysis Venkatesh,VENKATESH,2016,CENGAGE
+9.78E+12,Power Electronics Ambram,AMBRAM,2016,CENGAGE
+9.79E+12,Switching In Electrical Transmis Smeets,SMEETS,2016,WILEY
+9.79E+12,Analysis Design Of Foundations Saran,SWAMI SARAN,2016,IK
+9.79E+12,Advanced Guide To Matlab Alam,ALAM,2016,IK
+9.79E+12,Highway Material Testing & Quality Rao,VENKATAPPA RAO,2016,IK
+9.79E+12,Strength & Deformation Of Determ Kumar,KUMAR,2016,IK
+9.79E+12,Fine Tuning Of Road & Building Das,DAS,2016,IK
+9.79E+12,Introduction To Soil Mechanics Bodo,BODO,2016,WILEY BLACKWEL
+9.78E+12,Surveying & Levelling Vol 2 Bhavikatti,BHAVIKATTI,2016,IK
+9.79E+12,Concrete Buildings In Seismic Penelis,PENELIS,2016,CRC
+9.79E+12,Basic Structural Analysis Muthu,MUTHU,2016,IK
+9.79E+12,Surveying Theory & Practice Bhavikatti,BHAVIKATTI,2016,IK
+9.79E+12,Foundation Engineering Khitoliya,KHITOLIYA,2016,IK
+9.78E+12,Concrete Technology Bhavikatti,BHAVIKATTI,2016,IK
+9.78E+12,Highway Engineering Nikolaides,NIKOLAIDES,2016,CRC
+9.79E+12,Soil Sampling Prepatation Tan,TAN,2016,CRC
+9.79E+12,Indeterminate Structural Anlysis Muthu,MUTHU,2016,IK
+9.78E+12,Reliability Based Analysis & Des Devaraj,DEVARAJ V,2016,IK
+9.79E+12,Matrix Methods Of Structural Nagarajan,NAGARAJAN,2016,CRC
+9.78E+12,Manual For Detailing Of Steel Strucures,KANTHIMATHINATAHN,2016,IK
+9.78E+12,Advanced Energy Systems Khartchenko,KHARTCHENKO,2016,CRC
+9.79E+12,Fatigue Of Materials Suresh,SURESH,2016,CAMBRIDGE
+9.79E+12,Engineering Mechanics Harbola,HARBOLA,2016,CENGAGE
+9.78E+12,Design Of Fuide Thermal Systems Jonna,JONNA,2016,CENGAGE
+9.79E+12,Computational Methods For Heat Majumdar,MAJUMDAR,2016,CRC
+9.79E+12,Analysis & Design Of Machine Jadon,JADON,2016,IK
+9.79E+12,Bond Graph In Modeling Simu Mukherjee,MUKHERJEE,2016,IK
+9.79E+12,Computer Graphics With Open Gl Raikar,RAIKAR,2016,CENGAGE
+9.79E+12,Mechatronics Systems Design Shetty,SHETTY,2016,CENGAGE
+9.79E+12,Pneumatic & Hydraulic Systems Singh,SINGH,2016,IK
+9.79E+12,Working With Ansys Zindani,ZINDANI,2016,IK
+9.79E+12,A Textbook Of Mechatronics Rajput,RAJPUT,2017,S CHAND
+9.79E+12,Highway Engineering Sharma,SHARMA,2017,S CHAND
+9.79E+12,Finite Element Analysis Logan,LOGAN,2017,CENGAGE
+9.79E+12,Deformation & Fracture Mechani Hertzber,HERTZBERG,2017,WILEY
+9.79E+12,Strength Of Materials Vol 1 Binu Kumar,BINU KUMAR,2017,YES DEE
+9.79E+12,Beginning Android 4 Application Dev Lee,LEE,2017,WROX
+9.79E+12,Jet Engines Jaganathan,JAGANATHAN,2017,YES DEE
+9.79E+12,Engineering Chemistry Savita Garg,SAVITA GARG,2017,IK
+9.79E+12,Finite Automata & Formal Languages Redd,REDDY,2017,CENGAGE
+9.79E+12,Microwave & Rf Design Steer,STEER,2017,YES DEE
+9.79E+11,Radio Frequency & Microwave Radmanesh,RADMANESH,2017,PEARSON
+9.79E+12,Higher Engineering Mathematics Veeraraja,VEERARAJAN,2017,YES DEE
+9.79E+12,Digital Systems Design Using Verilog Rot,ROTH,2017,CENGAGE
+9.79E+12,Principles Of Information Security Whitm,WHITMAN,2017,CENGAGE
+9.79E+12,Objective Mechanical Engineering Mithal,MITHAL,2017,GK
+9.79E+12,Artificial Intelligence Kaushik,KAUSHIK,2017,CENGAGE
+9.79E+12,Technical Communicaton Chauhan,CHAUHAN,2017,CENGAGE
+9.79E+12,Vlsi Design Lal Kishore,LAL KISHORE,2017,IK
+9.79E+12,Engineering Maths Vol 2 Shankar Rao,SHANKAR RAO,2017,IK
+9.79E+12,Operations Research Veerachamy,VEERACHAMY,2017,IK
+9.79E+12,Research Methodology Chawla,CHAWLA,2017,VIKAS
+9.79E+12,Compiler Design Winster,WINSTER,2017,YES DEE
+9.79E+12,Web Programing Bates,BATES,2017,WILEY
+9.79E+12,Environmental Science Miller,MILLER,2017,CENGAGE
+9.79E+12,Advanced Mathematics Vol 2 Mujawar,MUJAWAR,2017,IK
+9.79E+12,Engineering Mathematics Vol 3 Mujawar,MUJAWAR,2017,IK
 B00LCH0LOU,Engineering Mathematics Vol 4 Mujawar,MUJAWAR,2017,IK
 B00ERY82DM,Gruha Banga,SL BYRAPPA,2015,SAHITYA BANDARA
 B00KCLEI0U,Kavalu,SL BYRAPPA,2015,SAHITYA BANDARA
 B00LCH0NFW,Mathadana,SL BYRAPPA,2015,SAHITYA BANDARA
-9.78935E+12,Grahana,SL BYRAPPA,2015,SAHITYA BANDARA
+9.79E+12,Grahana,SL BYRAPPA,2015,SAHITYA BANDARA
 198098650,Sakshi,SL BYRAPPA,2015,SAHITYA BANDARA
 817201659X,Sartha,SL BYRAPPA,2015,SAHITYA BANDARA
 B00M4PNLN2,Parva,SL BYRAPPA,2015,SAHITYA BANDARA
@@ -467,36 +467,36 @@ B00KYXY2QG,Ego Kannada,VENKATASUBBAIAH,2015,SAHITYA BANDARA
 B00KYXTRYS,Ondu Jeevana Saladu,NAYAR,2015,SAHITYA BANDARA
 B00KCLE8VO,Jaaruva Dariyalli,SIVARAMA KARANT,2015,SAHITYA BANDARA
 8179662713,Anchu,SL BYRAPPA,2015,SAHITYA BANDARA
-9.78818E+12,Essays On Current Topics,SARASWATI,2015,SURA
-9.78818E+12,The Theory Of Everything,HAWAKING,2015,JAICO
+9.79E+12,Essays On Current Topics,SARASWATI,2015,SURA
+9.79E+12,The Theory Of Everything,HAWAKING,2015,JAICO
 1426209673,Napoleon,LUDWIG,2015,JAICO
 143416871,Mana Manthana Shubachintana,PUTTURAYA,2015,
-9.78055E+12,365 Days Of Inspiration,HILL,2015,JAICO
-9.78014E+12,A Brief History Of Time,HAWAKING,2015,BANTAM
-9.78939E+12,The Scientific Indian - Apj Abdul Kalam,RAJAN,2015,PENGUINE
-9.78812E+12,Kailash Manasarovar,ANITA KARWAL,2015,
-9.78818E+12,How To Develop Profitable Listening Skil,AHUJA,2015,STERLING
-9.78818E+12,The Great Speeches Of Barack Obama,HARRISON,2015,JAICO
-9.78818E+12,Mind Is Your Business/Body The Greatest,SADHUGUR,2015,JAICO
+9.78E+12,365 Days Of Inspiration,HILL,2015,JAICO
+9.78E+12,A Brief History Of Time,HAWAKING,2015,BANTAM
+9.79E+12,The Scientific Indian - Apj Abdul Kalam,RAJAN,2015,PENGUINE
+9.79E+12,Kailash Manasarovar,ANITA KARWAL,2015,
+9.79E+12,How To Develop Profitable Listening Skil,AHUJA,2015,STERLING
+9.79E+12,The Great Speeches Of Barack Obama,HARRISON,2015,JAICO
+9.79E+12,Mind Is Your Business/Body The Greatest,SADHUGUR,2015,JAICO
 ,Champions Of Science,HUDSON,2015,JAICO
-9.78014E+11,Sirisampige,KAMBARA,2015,ANKITA
-9.78817E+12,India 2020,KALAM,2015,PUFFIN
-9.78014E+12,Secrete Teaching Of The Vedas,KNAPP,2015,JAICO
+9.78E+11,Sirisampige,KAMBARA,2015,ANKITA
+9.79E+12,India 2020,KALAM,2015,PUFFIN
+9.78E+12,Secrete Teaching Of The Vedas,KNAPP,2015,JAICO
 9384883069,Reignite - Apj Abdul Kalam,SINGH,2015,PUFFIN
 B07JMB2CGP,Badukalu Kaliyiri,JAGADTMANAND,2015,SAHITYA BANDARA
 B07JMB3CGP,Hosagannada Sahitya Charitre,SHESGIRI RAO,2015,ANKITA
 B07JMC3CGP,Naati Oshadi Mane Maddu,HEGDE,2015,SK
-9.78819E+12,Kannada Kavimale,RAMANAND,2015,CHANDANA
-9.78818E+12,Sarvajnana Vachanaglau,GANESH,2015,DESHI
-9.78813E+12,Corporate Chanakya,PILLAI,2015,JAICO
-9.78939E+12,English Language Communication Skills,KUMAR,2015,CENGAGE
+9.79E+12,Kannada Kavimale,RAMANAND,2015,CHANDANA
+9.79E+12,Sarvajnana Vachanaglau,GANESH,2015,DESHI
+9.79E+12,Corporate Chanakya,PILLAI,2015,JAICO
+9.79E+12,English Language Communication Skills,KUMAR,2015,CENGAGE
 ,Constitution Of India Professiona Ethics,SINGLA,2015,CENGAGE
-9.78813E+12,Maharshi Valmiki,SANKRANAND,2015,SK
-9.78939E+12,Business Ethics Ferrell,FERRELL,2015,CENGAGE
-9.78812E+12,Principles Of Leadership Dubrin,DUBRIN,2015,CENGAGE
-9.78933E+12,A Tb Of Workshop Technology Gupta,GUPTA,2015,S CHAND
-9.78812E+12,Operations Research Kalavathy,KALAVATHY,2015,VIKAS
-9.78939E+12,Principles Of Electronics Mehta,MEHTA,2015,S CHAND
-9.78935E+12,Electric Circuit Analysis Shivakumar,SHIVAKUMAR,2015,YESDEE
-9.78935E+12,A Tb  Of Strength Of Materials Rajput,RAJPUT,2016,S CHAND
-9.78935E+12,Machine Learning Dutt,DUTT;CHANDRAMOULI; KUMAR,2017,PEARSON
+9.79E+12,Maharshi Valmiki,SANKRANAND,2015,SK
+9.79E+12,Business Ethics Ferrell,FERRELL,2015,CENGAGE
+9.79E+12,Principles Of Leadership Dubrin,DUBRIN,2015,CENGAGE
+9.79E+12,A Tb Of Workshop Technology Gupta,GUPTA,2015,S CHAND
+9.79E+12,Operations Research Kalavathy,KALAVATHY,2015,VIKAS
+9.79E+12,Principles Of Electronics Mehta,MEHTA,2015,S CHAND
+9.79E+12,Electric Circuit Analysis Shivakumar,SHIVAKUMAR,2015,YESDEE
+9.79E+12,A Tb  Of Strength Of Materials Rajput,RAJPUT,2016,S CHAND
+9.79E+12,Machine Learning Dutt,DUTT;CHANDRAMOULI; KUMAR,2017,PEARSON

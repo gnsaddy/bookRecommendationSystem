@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # datasets books,student,rating
-books = pd.read_csv('books.csv', error_bad_lines=False, encoding="latin-1")
+books = pd.read_csv('booksForExcel.csv', error_bad_lines=False, encoding="latin-1")
 # columns of books dataset
 books.columns = ['ISBN', 'bookTitle',
                  'bookAuthor', 'yearOfPublication', 'publisher']
@@ -57,7 +57,7 @@ rating_count = pd.DataFrame(ratings.groupby('ISBN')['bookRating'].count())
 print(rating_count)
 # sorting of the counts of rating to get the highest rated books
 rating_count.sort_values('bookRating', ascending=False).head()
-xy = rating_count.sort_values('bookRating', ascending=False).head(10)
+xy = rating_count.sort_values('bookRating', ascending=False).head(5)
 print(xy)
 
 

@@ -57,7 +57,7 @@ rating_count = pd.DataFrame(ratings.groupby('ISBN')['bookRating'].count())
 print(rating_count)
 # sorting of the counts of rating to get the highest rated books
 rating_count.sort_values('bookRating', ascending=False).head()
-xy = rating_count.sort_values('bookRating', ascending=False).head(10)
+xy = rating_count.sort_values('bookRating', ascending=False).head(5)
 print(xy)
 
 
@@ -190,7 +190,7 @@ combined = rating_popular_book.merge(
 print(combined)
 # recommend based on user interest lets take Networks and
 interest_user_rating = combined[combined['Interest'].str.contains(
-    "Networks|Machine Learning")]
+    "Networks")]
 interest_user_rating = interest_user_rating .drop('Age', axis=1)
 interest_user_rating.head(50)
 
